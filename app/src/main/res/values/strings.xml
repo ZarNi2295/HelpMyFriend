@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyDiet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_your_result">Your Result</string>
+    <string name="txt_bmi_bmr_txt">Body mass index (BMI) is a measure of body fat</string>
+    <string name="lbl_ok">Ok</string>
+    <string name="lbl_bmi">BMI</string>
+    <string name="lbl_bmr">BMR</string>
+    <string name="lbl_fill_data">Fill Data.</string>
+    <string name="lbl_check_error">Please check errors</string>
+</resources>
